@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT (Really?)
 - 🌱 I’m currently learning Swift, Kotlin and Flutter (I like Java too)
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me valdosx@gmail.com
+- 📫 How to reach me enrico.valdinosi@gmail.com
 
 <!---
 DaValdos/DaValdos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
